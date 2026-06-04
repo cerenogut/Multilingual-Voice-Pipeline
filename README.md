@@ -112,5 +112,5 @@ The source code itself is proprietary and not publicly distributed.
 
 ## 👤 Author
 
-**[Your Name]** — *AI / Speech Engineer*
+Ceren Öğüt — *Computer Engineer*
 🔗 [GitHub](https://github.com/your-handle) · [LinkedIn](https://linkedin.com/in/your-handle)
