@@ -1,5 +1,0 @@
-{
-    "python.defaultInterpreterPath": "/home/ceren/miniconda3/envs/voice_pipeline/bin/python",
-    "jupyter.kernels.filter": [],
-    "jupyter.kernels.excludePythonEnvironments": false
-}
